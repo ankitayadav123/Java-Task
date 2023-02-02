@@ -1,0 +1,77 @@
+{"properties": [
+  {
+    "name": "accessKey",
+    "type": "java.lang.String",
+    "description": "A description for 'accessKey'"
+  },
+  {
+    "name": "secret",
+    "type": "java.lang.String",
+    "description": "A description for 'secret'"
+  },
+  {
+    "name": "bucketName",
+    "type": "java.lang.String",
+    "description": "A description for 'bucketName'"
+  },
+  {
+    "name": "accessKey",
+    "type": "java.lang.String",
+    "description": "A description for 'accessKey'"
+  },
+  {
+    "name": "region",
+    "type": "java.lang.String",
+    "description": "A description for 'region'"
+  },
+  {
+    "name": "bucketName",
+    "type": "java.lang.String",
+    "description": "A description for 'bucketName'"
+  },
+  {
+    "name": "bucketName",
+    "type": "java.lang.String",
+    "description": "A description for 'bucketName'"
+  },
+  {
+    "name": "bucketName",
+    "type": "java.lang.String",
+    "description": "A description for 'bucketName'"
+  },
+  {
+    "name": "accessKey",
+    "type": "java.lang.String",
+    "description": "A description for 'accessKey'"
+  },
+  {
+    "name": "accessKey",
+    "type": "java.lang.String",
+    "description": "A description for 'accessKey'"
+  },
+  {
+    "name": "accessKey",
+    "type": "java.lang.String",
+    "description": "A description for 'accessKey'"
+  },
+  {
+    "name": "accessKey",
+    "type": "java.lang.String",
+    "description": "A description for 'accessKey'"
+  },
+  {
+    "name": "accessKey",
+    "type": "java.lang.String",
+    "description": "A description for 'accessKey'"
+  },
+  {
+    "name": "accessKey",
+    "type": "java.lang.String",
+    "description": "A description for 'accessKey'"
+  },
+  {
+    "name": "accessKey",
+    "type": "java.lang.String",
+    "description": "A description for 'accessKey'"
+  }
+]}
