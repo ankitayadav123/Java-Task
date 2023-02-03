@@ -17,7 +17,7 @@ public class S3Contoller {
     @Autowired
     private S3Service s3Service;;
 
-    @PostMapping("upload")
+    @PostMapping("/upload")
     public String upload(@RequestParam("file") MultipartFile file){
        return s3Service.saveFile(file);
     }
